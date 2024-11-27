@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743660424404",
+    "project_id": "authimusic",
+    "storage_bucket": "authimusic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743660424404:android:2e00647d444170ffcf7f41",
+        "android_client_info": {
+          "package_name": "com.imusic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcryAOXLVCgkE49yQ6F2tz2o2PEMW-Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
